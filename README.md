@@ -1,0 +1,5 @@
+# Transit Icons
+
+These icons describe **various transit services in San Diego and the SoCal region**, including service icons for all Trolley and train lines and major bus routes. We use these icons for listing transit services nearby the projects on our website, and for other transit services. More icons will be added as time goes on, and we want your suggestions - if you have an idea for a missing icon or want one for a particular route, email me: samuel@buildsd.org!
+
+While I created these icons myself, many of the symbols in them come from agency resources. Thanks to everyone who's worked on building such a strong visual identity for transit. These icons are freely available for use, commercial or non-commercial. Attribution is appreciated, however, and please let me know if you make something cool with them!
